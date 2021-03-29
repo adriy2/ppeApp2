@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="login">Nom de compte</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="button">Connexion</string>
+    <string name="buttonQRCode">Scanner un QRCode</string>
+    <string name="buttonListe">Liste des produits</string>
+    <string name="scanner">scanner</string>
+</resources>
